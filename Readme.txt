@@ -1,5 +1,3 @@
-Key Changes:
-Comments are in English for better understanding.
 The functionality and logic remain unchanged.
 How to Use:
 
